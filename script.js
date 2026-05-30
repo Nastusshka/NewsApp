@@ -1,7 +1,6 @@
 // Импортируем React и useState для хранения выбранной категории, новостей и загрузки.
 import React, { useState } from 'react';
 
-// Импортируем готовые элементы интерфейса из React Native.
 import {
   View, 
   Text, 
